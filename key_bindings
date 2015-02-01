@@ -1,0 +1,5 @@
+[
+ // copy line with your OS without the comment
+    { "keys": ["f12"], "command": "reindent", "args": {"single_line": false} } // windows or linux
+    { "keys": ["command+option+l"], "command": "reindent", "args": {"single_line": false} } // mac
+]
