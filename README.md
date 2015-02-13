@@ -1,2 +1,4 @@
 # amk_subl
-My Sublime Text Key Bindings and Settings
+My text editor key bindings and settings
+- Sublime
+- Atom
